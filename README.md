@@ -1,4 +1,4 @@
-OpenWrt build system – Installation
+<b>OpenWrt build system – Installation</b>
 
 This is the buildsystem for the OpenWrt Linux distribution.
 
